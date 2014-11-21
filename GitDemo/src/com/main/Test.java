@@ -6,6 +6,6 @@ public class Test {
         System.err.println("2");
         System.out.println("3");
         System.out.println("bug OK");
-        System.err.println("222222222");
+        System.err.println("222222222fffff");
     }
 }
