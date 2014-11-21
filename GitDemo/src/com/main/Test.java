@@ -8,6 +8,5 @@ public class Test {
         System.out.println("bug OK");
         System.err.println("222222222fffff");
         System.err.println("222222222fffff");
-        System.err.println("222222222fffff");
     }
 }
