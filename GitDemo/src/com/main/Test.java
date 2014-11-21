@@ -9,8 +9,5 @@ public class Test {
         System.err.println("222222222fffff");
         System.err.println("222222222fffff");
         System.err.println("222222222fffff");
-        System.err.println("222222222fffff");
-        System.err.println("222222222fffff");
-        System.err.println("222222222ffffuuuccdddf");
     }
 }
